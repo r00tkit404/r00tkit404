@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c'est r00tkit
 
-### 🎮 Développeur FiveM · 🤖 Bot Discord · 🛠️ Fondateur d'[Alya Roleplay](https://github.com/Alya-Roleplay)
+### 🎮 Développeur FiveM · 🤖 Bot Discord · 🛠️ Développeur d'[Alya Roleplay](https://github.com/Alya-Roleplay)
 
 [![France](https://img.shields.io/badge/📍-France-blue?style=flat-square)](https://github.com/r00tkit404)
 [![Status](https://img.shields.io/badge/🎯-Focusing-orange?style=flat-square)](https://github.com/r00tkit404)
